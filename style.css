@@ -8,16 +8,12 @@ body {
 }
 
 .category {
-    margin-bottom: 7px;
-}
-
-.category h3 {
+    margin-bottom: 15px;
+    color: turquoise;
     margin-top: 6px;
     margin-bottom: 2px;
-    color: #A5D7E8;
     font-size: 11pt;
-/*     background-color:white; */
-    /* font-size: 85%; */
+
 }
 
 .buttons {
